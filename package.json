@@ -1,0 +1,81 @@
+{
+  "name": "loginform",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.12.1",
+    "@redux-saga/core": "^1.1.3",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/js-cookie": "^3.0.1",
+    "@types/lodash": "^4.14.173",
+    "@types/react-intl": "^3.0.0",
+    "@types/react-redux": "^7.1.18",
+    "@types/react-router": "^5.1.16",
+    "@types/react-router-dom": "^5.3.0",
+    "@types/smoothscroll-polyfill": "^0.3.1",
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
+    "@typescript-eslint/parser": "^4.31.2",
+    "antd": "^5.4.2",
+    "connected-react-router": "^6.9.1",
+    "cross-env": "^7.0.3",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.26.0",
+    "history": "^4.10.1",
+    "http-proxy-middleware": "^2.0.1",
+    "js-cookie": "^3.0.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "node-sass": "^6.0.1",
+    "prettier": "^2.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-hot-toast": "^2.4.0",
+    "react-intl": "^5.20.10",
+    "react-redux": "^7.2.6",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.1.2",
+    "redux": "^4.1.1",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "smoothscroll-polyfill": "^0.4.4",
+    "typesafe-actions": "^5.1.0",
+    "typescript": "^4.4.2",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "cross-env GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-react": "^1.1.7",
+    "eslint-config-react-app": "^7.0.1"
+  }
+}

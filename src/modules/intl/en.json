@@ -1,0 +1,22 @@
+{
+  "welcome": "Xin chào",
+  "email": "Email",
+  "password": "Password",
+  "repeatPassword": "Confirm Password",
+  "name": "Confirm Password",
+  "gender": "Gender",
+  "region": "Region",
+  "state": "State",
+  "rememberMe": "Remember Me",
+  "emailRequire": "emailRequire",
+  "emailInvalid": "emailInvalid",
+  "passwordRequire": "passwordRequire",
+  "matchPasswordInvalid": "matchPasswordInvalid",
+  "minPasswordInvalid": "minPasswordInvalid",
+  "nameRequire": "nameRequire",
+  "genderRequire": "genderRequire",
+  "regionRequire": "regionRequire",
+  "stateRequire": "stateRequire",
+  "login": "Log In",
+  "register": "Register"
+}
